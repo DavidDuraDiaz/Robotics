@@ -1,0 +1,1 @@
+2020-07-24 18:56:57.040 +02:00 [INF] Returned all Books from database
